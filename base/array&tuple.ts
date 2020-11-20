@@ -35,5 +35,5 @@ const teacherInfo: [string, string, number] = ['lee', 'male', 18]
 const tupleArr: [string, string, number][] = [
     ['lee', 'girl', 18],
     ['zhang', 'boy', 18],
-    ['niu', 'boy', 18],
+    ['niu', 'boy', 18]
 ]
