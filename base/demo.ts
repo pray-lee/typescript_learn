@@ -35,3 +35,4 @@ let countInterface = 123
 // 类型可变
 let str: number | string = 123
 str = '123'
+console.log(str)
