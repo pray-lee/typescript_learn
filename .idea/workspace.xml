@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf66b29-11e6-4e57-a2a3-d7530a3a6db8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/base/array&amp;tuple.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/class.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/单例模式.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/抽象类.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawler/src/crawller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/Demo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/base/Demo.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1kXs8DwsTZiaA0y7KAWrJt4s01R" />
   <component name="ProjectViewState">
@@ -22,7 +37,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -36,22 +52,25 @@
       <updated>1605858109528</updated>
       <workItem from="1605858110649" duration="1422000" />
       <workItem from="1605859572097" duration="2997000" />
-      <workItem from="1632883675942" duration="449000" />
+      <workItem from="1632883675942" duration="6811000" />
+      <workItem from="1632969044134" duration="6000" />
+      <workItem from="1633932494843" duration="13325000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/Typescript的优势/demo.js" />
-      </list>
-    </option>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2268" y="114" key="SettingsEditor" timestamp="1605859648725">
-      <screen x="1536" y="25" width="1920" height="1055" />
-    </state>
-    <state x="2268" y="114" key="SettingsEditor/1536.25.1920.1055/0.25.1536.863@1536.25.1920.1055" timestamp="1605859648725" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
