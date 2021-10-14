@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf66b29-11e6-4e57-a2a3-d7530a3a6db8" name="Default Changelist" comment="init crawler">
-      <change afterPath="$PROJECT_DIR$/crawler/src/customAnalyzer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Typescript_advanced/advanced.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/data/course.json" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/data/course.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/src/crawller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/src/crawller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/src/customAnalyzer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/src/customAnalyzer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +52,7 @@
       <workItem from="1605859572097" duration="2997000" />
       <workItem from="1632883675942" duration="6811000" />
       <workItem from="1632969044134" duration="6000" />
-      <workItem from="1633932494843" duration="21866000" />
+      <workItem from="1633932494843" duration="31468000" />
     </task>
     <task id="LOCAL-00001" summary="init crawler">
       <created>1633950504478</created>
@@ -70,6 +66,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Typescript_advanced/advanced.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

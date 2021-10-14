@@ -64,6 +64,5 @@ export default class CustomAnalyzer implements Analyzer {
         const fileContent = this.generateJsonContent(courseResult, filePath)
         return JSON.stringify(fileContent)
     }
-
     private constructor() {}
 }
