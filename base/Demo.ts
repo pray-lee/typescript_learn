@@ -41,7 +41,7 @@ function add(first: number, second: number): number {
 
 // 没有返回值用void
 function sayHello(): void {
-    console.log('hellow')
+    console.log('hello')
 }
 
 // 函数永远不可能执行完成用never

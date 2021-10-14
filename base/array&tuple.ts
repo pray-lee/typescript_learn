@@ -16,3 +16,4 @@ const objectArr1: User[] = [{name: 'lee', age: 30}]
 
 // tuple 数量不可变，顺序也不可变, 类型顺序也不可变
 const teacherInfo: [string, string, number] = ['lee', 'male', 18]
+
