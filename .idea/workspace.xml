@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf66b29-11e6-4e57-a2a3-d7530a3a6db8" name="Default Changelist" comment="init crawler">
+      <change afterPath="$PROJECT_DIR$/base/base.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/Demo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/base/Demo.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/array&amp;tuple.ts" beforeDir="false" afterPath="$PROJECT_DIR$/base/array&amp;tuple.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +24,26 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1kXs8DwsTZiaA0y7KAWrJt4s01R" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lixiaoyong/Documents/my_personal_practice/typescript_learn&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/lixiaoyong/Documents/my_personal_practice/typescript_learn/crawler/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +57,10 @@
       <workItem from="1632883675942" duration="6811000" />
       <workItem from="1632969044134" duration="6000" />
       <workItem from="1633932494843" duration="33224000" />
+      <workItem from="1660015839426" duration="1974000" />
+      <workItem from="1660025395513" duration="4444000" />
+      <workItem from="1660029929439" duration="1080000" />
+      <workItem from="1660031593754" duration="3792000" />
     </task>
     <task id="LOCAL-00001" summary="init crawler">
       <created>1633950504478</created>
@@ -69,6 +77,7 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/Typescript_advanced/advanced.js" />
+        <option value="$PROJECT_DIR$/base/base.js" />
       </list>
     </option>
   </component>
@@ -82,7 +91,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init crawler" />
