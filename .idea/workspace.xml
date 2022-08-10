@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf66b29-11e6-4e57-a2a3-d7530a3a6db8" name="Default Changelist" comment="init crawler">
+      <change afterPath="$PROJECT_DIR$/base/函数.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/base.ts" beforeDir="false" afterPath="$PROJECT_DIR$/base/base.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/class.ts" beforeDir="false" afterPath="$PROJECT_DIR$/base/class.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/抽象类.ts" beforeDir="false" afterPath="$PROJECT_DIR$/base/抽象类.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawler/src/crawller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/src/crawller.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
       <workItem from="1660029929439" duration="1080000" />
       <workItem from="1660031593754" duration="15669000" />
       <workItem from="1660109928988" duration="598000" />
-      <workItem from="1660111232344" duration="5251000" />
+      <workItem from="1660111232344" duration="14770000" />
     </task>
     <task id="LOCAL-00001" summary="init crawler">
       <created>1633950504478</created>
