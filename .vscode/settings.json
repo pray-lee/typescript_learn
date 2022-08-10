@@ -1,0 +1,10 @@
+{
+    "editor.wordWrap": "on",
+    "debug.console.wordWrap": false,
+    "editor.wrappingIndent": "none",
+    "html.format.wrapLineLength": 0,
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.autoIndent": "none",
+    "editor.guides.highlightActiveBracketPair": true,
+    "editor.renderLineHighlight": "none"
+}

@@ -10,6 +10,9 @@ class Circle extends Geom {
     getArea() {
         return 123
     }
+    aa() {
+        return 11111
+    }
 }
 
 class Square extends Geom {
@@ -23,3 +26,4 @@ class Triangle extends Geom {
         return 789
     }
 }
+console.log(new Circle().aa())

@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf66b29-11e6-4e57-a2a3-d7530a3a6db8" name="Default Changelist" comment="init crawler">
-      <change afterPath="$PROJECT_DIR$/base/base.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/base.ts" beforeDir="false" afterPath="$PROJECT_DIR$/base/base.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/class.ts" beforeDir="false" afterPath="$PROJECT_DIR$/base/class.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/抽象类.ts" beforeDir="false" afterPath="$PROJECT_DIR$/base/抽象类.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler/src/crawller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/crawler/src/crawller.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lixiaoyong/Documents/my_personal_practice/typescript_learn&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/lixiaoyong/Documents/my_personal_practice/typescript_learn/crawler/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/lixiaoyong/Documents/my_personal_practice/typescript_learn",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "ts.external.directory.path": "/Users/lixiaoyong/Documents/my_personal_practice/typescript_learn/crawler/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +63,9 @@
       <workItem from="1660015839426" duration="1974000" />
       <workItem from="1660025395513" duration="4444000" />
       <workItem from="1660029929439" duration="1080000" />
-      <workItem from="1660031593754" duration="3792000" />
+      <workItem from="1660031593754" duration="15669000" />
+      <workItem from="1660109928988" duration="598000" />
+      <workItem from="1660111232344" duration="5251000" />
     </task>
     <task id="LOCAL-00001" summary="init crawler">
       <created>1633950504478</created>
