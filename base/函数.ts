@@ -21,7 +21,7 @@
 //     return arg
 // }
 //
-// let myIdentify: GenericIdentifyFn<number> = identify
+// let myIdentify: GenericIdentifyFn<number> = idengtify
 
 // 泛型类
 // class GenericNumber<T> {
@@ -33,5 +33,4 @@
 // myGenericNumber.zeroValue = 0
 // myGenericNumber.add = function(x, y) {return x + y}
 
-let anyThing: any = 'hello'
-console.log(anyThing.myName)
+// 函数的类型
