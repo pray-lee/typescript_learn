@@ -33,4 +33,19 @@
 // myGenericNumber.zeroValue = 0
 // myGenericNumber.add = function(x, y) {return x + y}
 
-// 函数的类型
+// 用接口定义函数的形状
+// interface SearchFn {
+//     (source: string, subString: string): boolean
+// }
+//
+// let mySearch: SearchFn = (source:string, subString:string) => {
+//     return source.search(subString) !== -1
+// }
+
+// 函数重载
+// Typescript 会优先从最前面的函数定义开始匹配，所以多个函数定义如果有包含关系
+// 需要优先把精确的定义写在前面
+function reverse(x: number): number
+function reverse(x: string): string
+function reverse(x: number | string): number | string | void {
+}
