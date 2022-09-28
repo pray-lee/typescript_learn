@@ -6,7 +6,6 @@ interface Course {
     title: string
     count: string | number
 }
-console.log(1)
 
 interface CourseResult {
     time: string,
