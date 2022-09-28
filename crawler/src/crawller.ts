@@ -4,6 +4,7 @@ import fs from 'fs'
 import CustomAnalyzer from "./customAnalyzer";
 
 
+console.log(1)
 export interface Analyzer {
    analyze: (html: string, filePath: string) => string
 }
